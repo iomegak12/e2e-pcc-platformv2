@@ -1,0 +1,148 @@
+version: '3.9'
+
+services:
+  # Orchestrator API - LangGraph workflow coordinator
+  orchestrator:
+    build:
+      context: ./orchestrator
+      dockerfile: ../docker/Dockerfile.orchestrator
+    container_name: pcc-orchestrator
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - POSTGRES_HOST=postgres
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - JWT_SECRET=${JWT_SECRET}
+      - ENVIRONMENT=${ENVIRONMENT:-development}
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      chromadb:
+        condition: service_healthy
+      mcp-ehr:
+        condition: service_healthy
+      mcp-lab:
+        condition: service_healthy
+      mcp-pharmacy:
+        condition: service_healthy
+      mcp-appointments:
+        condition: service_healthy
+    networks:
+      - pcc-network
+    restart: unless-stopped
+
+  # MCP Server - EHR
+  mcp-ehr:
+    build:
+      context: ./mcp_servers/ehr
+      dockerfile: ../../docker/Dockerfile.mcp
+    container_name: pcc-mcp-ehr
+    environment:
+      - POSTGRES_HOST=postgres
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+    ports:
+      - "8001:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - pcc-network
+    restart: unless-stopped
+
+  # MCP Server - Lab
+  mcp-lab:
+    build:
+      context: ./mcp_servers/lab
+      dockerfile: ../../docker/Dockerfile.mcp
+    container_name: pcc-mcp-lab
+    environment:
+      - POSTGRES_HOST=postgres
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+    ports:
+      - "8002:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - pcc-network
+    restart: unless-stopped
+
+  # MCP Server - Pharmacy
+  mcp-pharmacy:
+    build:
+      context: ./mcp_servers/pharmacy
+      dockerfile: ../../docker/Dockerfile.mcp
+    container_name: pcc-mcp-pharmacy
+    environment:
+      - POSTGRES_HOST=postgres
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+    ports:
+      - "8003:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - pcc-network
+    restart: unless-stopped
+
+  # MCP Server - Appointments
+  mcp-appointments:
+    build:
+      context: ./mcp_servers/appointments
+      dockerfile: ../../docker/Dockerfile.mcp
+    container_name: pcc-mcp-appointments
+    environment:
+      - POSTGRES_HOST=postgres
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+    ports:
+      - "8004:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - pcc-network
+    restart: unless-stopped
+
+networks:
+  pcc-network:
+    external: true

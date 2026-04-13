@@ -1,0 +1,215 @@
+# NICE Guideline NG28: Type 2 Diabetes in Adults - Management
+## Sample Clinical Guideline Content for Testing
+
+### Overview
+This guideline covers the care and management of type 2 diabetes in adults (aged 18 and over). It includes advice on diet, lifestyle, education, managing blood glucose levels, cardiovascular risk, and identifying and managing long-term complications.
+
+### Key Recommendations
+
+#### 1. Individualised Care
+- Adopt an individualised approach to diabetes care tailored to:
+  * Clinical and personal circumstances
+  * Personal preferences and needs
+  * Comorbidities
+  * Risks from polypharmacy
+  * Life expectancy
+- Involve people with diabetes in decisions about their care
+- Provide opportunities for diabetes education
+
+#### 2. HbA1c Targets and Monitoring
+- Aim for HbA1c target of 48 mmol/mol (6.5%) for adults managed with lifestyle and diet, or lifestyle and a single drug not associated with hypoglycaemia
+- Target of 53 mmol/mol (7.0%) for adults on drugs associated with hypoglycaemia
+- In adults with type 2 diabetes, measure HbA1c levels every 3–6 months until stable, then every 6 months
+- Consider relaxing HbA1c targets in:
+  * Frail elderly patients
+  * Those with reduced life expectancy
+  * Those prone to hypoglycaemia
+
+#### 3. Blood Glucose Management - First-Line Therapy
+
+##### Lifestyle Interventions
+- Offer structured education at diagnosis and annually thereafter
+- Dietary advice:
+  * High-fibre, low-glycaemic-index carbohydrates
+  * Low-fat dairy products
+  * Oily fish
+  * Control portion sizes for weight management
+- Physical activity:
+  * 150 minutes moderate-intensity activity per week
+  * Resistance training on 2+ days per week
+
+##### Metformin as First-Line
+- Offer standard-release metformin as initial drug treatment
+- Starting dose: 500mg once daily with breakfast
+- Titrate up gradually over several weeks to maintenance dose
+- Usual maintenance: 1000mg twice daily
+- Maximum dose: 1000mg three times daily or 2000mg once daily (modified release)
+- If gastro-intestinal side effects develop, consider modified-release metformin
+
+#### 4. Dual Therapy (If HbA1c ≥58 mmol/mol / 7.5%)
+Consider adding one of the following to metformin:
+- **DPP-4 inhibitor** (e.g., sitagliptin, linagliptin)
+  * If hypoglycaemia is significant risk
+  * Weight gain would cause problems
+- **Pioglitazone**
+  * Only if DPP-4 inhibitor would be contraindicated
+  * Monitor for heart failure, bladder cancer
+- **Sulfonylurea** (e.g., gliclazide, glimepiride)
+  * If rapid glucose reduction needed
+  * Accept hypoglycaemia risk
+  * Start at lowest dose, titrate up
+- **SGLT2 inhibitor** (e.g., dapagliflozin, empagliflozin)
+  * Particularly if CKD or heart failure
+  * Monitor for genital infections
+
+#### 5. Triple Therapy (If HbA1c ≥58 mmol/mol / 7.5%)
+Consider metformin + two of:
+- DPP-4 inhibitor
+- Pioglitazone
+- Sulfonylurea
+- SGLT2 inhibitor
+
+Or consider insulin-based treatment
+
+#### 6. Insulin Therapy
+Indications:
+- HbA1c ≥58 mmol/mol on triple therapy
+- Symptomatic hyperglycaemia
+- Metabolic decompensation
+
+Regimens:
+- **NPH insulin** (isophane insulin) at bedtime or twice daily
+- **Pre-mixed insulin** twice daily
+- Continue metformin, consider stopping other oral drugs
+- Titrate insulin dose based on self-monitoring
+
+#### 7. GLP-1 Mimetics
+Consider if:
+- Triple therapy not effective or not tolerated
+- BMI ≥35 kg/m² (or ≥32.5 kg/m² in South Asian/Chinese)
+- Weight-related comorbidities
+- Insulin would have occupational implications
+
+Continue only if:
+- HbA1c reduction ≥11 mmol/mol (1%)
+- Weight loss ≥3% at 6 months
+
+#### 8. Cardiovascular Risk Management
+
+##### Blood Pressure
+- Target BP <140/90 mmHg (or <130/80 mmHg if kidney, eye, or cerebrovascular damage)
+- Offer ACE inhibitor (or ARB if ACE-I not tolerated) as first-line
+- Add calcium channel blocker or thiazide-like diuretic as second-line
+
+##### Lipid Management
+- Offer atorvastatin 20mg for primary prevention if QRISK2 ≥10%
+- For secondary prevention, offer atorvastatin 80mg
+- Aim for non-HDL reduction >40% from baseline
+
+##### Antiplatelet Therapy
+- Offer aspirin 75mg for secondary prevention
+- Do not offer for primary prevention routinely
+
+#### 9. Monitoring for Complications
+
+##### Annual Reviews
+- HbA1c and glucose control
+- Blood pressure
+- Lipid profile
+- Kidney function (eGFR, ACR)
+- Foot examination
+- Eye screening (retinal photography)
+- Weight and BMI
+- Smoking status
+- Alcohol consumption
+
+##### Diabetic Kidney Disease
+- Measure urinary albumin:creatinine ratio (ACR) annually
+- If ACR ≥3 mg/mmol:
+  * Offer ACE-I or ARB
+  * Target BP <130/80 mmHg
+  * Consider SGLT2 inhibitor
+
+##### Diabetic Retinopathy
+- Annual digital retinal photography screening
+- Refer urgently if:
+  * Preproliferative or proliferative retinopathy
+  * Maculopathy
+  * Visual symptoms
+
+##### Diabetic Neuropathy
+- Assess for peripheral neuropathy annually
+- Examine feet for ulcers, calluses, deformities
+- Assess vascular status (pulses, capillary refill)
+- Risk stratify and provide appropriate foot care education
+
+#### 10. Managing Hypoglycaemia
+- Educate about recognition and treatment
+- For conscious patient: 15-20g fast-acting carbohydrate (glucose tablets, juice)
+- Re-check glucose after 15 minutes
+- If unconscious: IM glucagon or IV glucose
+- Review medication causing hypoglycaemia
+- Consider continuous glucose monitoring if recurrent
+
+#### 11. Sick Day Rules
+Advise patients to:
+- Continue usual diabetes medications during illness
+- Exception: stop metformin if risk of dehydration or AKI
+- Temporarily stop SGLT2 inhibitors during acute illness
+- Monitor blood glucose more frequently
+- Maintain hydration
+- Seek medical advice if:
+  * Unable to eat/drink
+  * Persistent vomiting
+  * Blood glucose >15 mmol/L
+  * Ketones present
+
+#### 12. Special Situations
+
+##### Ramadan Fasting
+- Pre-Ramadan assessment of risk
+- Adjust medication to reduce hypoglycaemia risk
+- Consider switching sulfonylurea to DPP-4 inhibitor
+- Educate about breaking fast if unwell
+
+##### Surgery
+- Aim for glucose 6-10 mmol/L perioperatively
+- Variable rate IV insulin for major surgery
+- Continue long-acting insulin at 80% normal dose
+- Restart usual therapy when eating/drinking
+
+##### Pregnancy Planning
+- Aim for HbA1c <48 mmol/mol before conception
+- Stop oral agents except metformin
+- Offer retinal assessment
+- High-dose folic acid (5mg daily)
+
+### Patient Education Components
+- Nature and progression of type 2 diabetes
+- Lifestyle modification strategies
+- Self-monitoring of blood glucose
+- Medication adherence and timing
+- Hypoglycaemia prevention and management
+- Sick day rules
+- Complication screening importance
+- Foot care
+- When to seek medical help
+
+### Quality Metrics
+1. HbA1c ≤58 mmol/mol in 60% of patients
+2. Blood pressure <140/80 mmHg in 70% of patients
+3. Total cholesterol <5 mmol/L in 70% of patients
+4. 100% completion of annual review elements
+5. 90% uptake of structured education within 12 months of diagnosis
+
+### Audit Standards
+- Documentation of individualized HbA1c targets
+- Timely treatment intensification when targets not met
+- Annual monitoring of complications
+- Patient education offered and documented
+- Cardiovascular risk assessment completed
+
+---
+Document Version: Testing Sample v1.0
+Created for PCC Platform Development
+Based on NICE guideline format and structure

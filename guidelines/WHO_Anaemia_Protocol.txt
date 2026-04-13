@@ -1,0 +1,273 @@
+# WHO Guideline: Daily Iron Supplementation in Adult Women and Adolescent Girls
+## Sample Clinical Protocol for Testing
+
+### Background and Rationale
+Iron deficiency is the most common nutritional deficiency worldwide, affecting primarily women of reproductive age and adolescent girls. Anaemia due to iron deficiency has significant health consequences including impaired cognitive and physical development, reduced work capacity, and adverse pregnancy outcomes.
+
+### Scope and Purpose
+This guideline provides global, evidence-based recommendations on daily iron supplementation as a public health intervention in menstruating women and adolescent girls living in settings where anaemia prevalence is 40% or higher.
+
+### Target Population
+- Non-pregnant adolescent girls (10-19 years)
+- Non-pregnant women of reproductive age (20-49 years)
+- Pregnant women (all gestational ages)
+- Postpartum women (up to 12 weeks after delivery)
+
+### Key Recommendations
+
+#### Recommendation 1: Intermittent Iron Supplementation in Menstruating Women
+**Population**: Non-pregnant women and adolescent girls (aged ≥15 years) in populations where anaemia prevalence is ≥40%
+
+**Intervention**: Oral iron supplementation 120mg elemental iron plus 2800μg (2.8mg) folic acid once weekly for 3 months
+
+**Evidence Quality**: Moderate
+**Strength**: Strong recommendation
+
+**Implementation Considerations**:
+- Weekly regimen improves adherence compared to daily dosing
+- Reduces side effects (nausea, constipation)
+- Cost-effective for public health programs
+- Can be integrated with existing health services
+
+#### Recommendation 2: Daily Iron Supplementation in Pregnancy
+**Population**: All pregnant women
+
+**Intervention**: 
+- Elemental iron 30-60mg daily
+- Plus folic acid 400μg (0.4mg) daily
+- Throughout pregnancy, starting as early as possible
+
+**Evidence Quality**: High
+**Strength**: Strong recommendation
+
+**Rationale**:
+- Prevents maternal anaemia
+- Reduces risk of low birth weight
+- Improves neonatal iron stores
+- Reduces preterm delivery risk
+
+#### Recommendation 3: Postpartum Supplementation
+**Population**: Women who were anaemic during pregnancy (Hb <110 g/L)
+
+**Intervention**: Continue iron supplementation for 3 months postpartum
+
+**Evidence Quality**: Low
+**Strength**: Conditional recommendation
+
+### Dosing Schedules
+
+#### For Non-Pregnant Women and Adolescents
+
+##### Option 1: Daily Supplementation
+- Elemental iron: 30-60mg daily
+- Duration: 3 months
+- Frequency: Continuous or cyclical (6 months on, 6 months off)
+
+##### Option 2: Intermittent (Weekly) Supplementation
+- Elemental iron: 120mg once per week
+- Plus folic acid: 2.8mg
+- Duration: Ongoing in high-prevalence settings
+
+#### For Pregnant Women
+- Start: At first antenatal visit or as soon as pregnancy confirmed
+- Dose: 30-60mg elemental iron + 400μg folic acid daily
+- Duration: Throughout pregnancy and 3 months postpartum if anaemic
+
+#### Iron Formulations and Elemental Iron Content
+| Formulation | Elemental Iron Content |
+|-------------|----------------------|
+| Ferrous sulfate 300mg | 60mg |
+| Ferrous sulfate 200mg | 65mg |
+| Ferrous fumarate 200mg | 65mg |
+| Ferrous gluconate 300mg | 35mg |
+
+### Monitoring and Follow-Up
+
+#### Clinical Monitoring
+- Baseline haemoglobin assessment (where feasible)
+- Monitor for side effects at follow-up visits
+- Reassess haemoglobin after 3 months of supplementation
+- Continue if Hb remains <120 g/L (non-pregnant) or <110 g/L (pregnant)
+
+#### Side Effect Management
+Common side effects:
+- Nausea (10-20% of users)
+- Constipation (10-15%)
+- Epigastric discomfort (5-10%)
+- Dark stools (harmless, inform patients)
+
+Management strategies:
+- Take with food to reduce nausea (may reduce absorption 40-50%)
+- Lower dose if severe side effects
+- Switch to alternate-day dosing
+- Use liquid formulations in some cases
+- Advise on dietary fiber for constipation
+
+#### Laboratory Monitoring (if resources available)
+- Haemoglobin concentration
+- Serum ferritin (population surveys)
+- Transferrin saturation
+- C-reactive protein (to exclude inflammation)
+
+### Contraindications and Precautions
+
+#### Absolute Contraindications
+- Haemochromatosis or other iron overload disorders
+- Repeated blood transfusions
+- Thalassaemia major
+- Sideroblastic anaemia
+
+#### Relative Contraindications
+- Active peptic ulcer disease
+- Inflammatory bowel disease (active phase)
+- Hemosiderosis
+
+#### Drug Interactions
+Iron absorption reduced by:
+- Antacids
+- Proton pump inhibitors
+- Tetracycline antibiotics
+- Calcium supplements
+- Tea and coffee (taken concurrently)
+
+Iron absorption enhanced by:
+- Vitamin C (ascorbic acid)
+- Citric acid
+- Meat, fish, poultry
+
+### Implementation Strategies
+
+#### Community-Based Programs
+1. **School-Based Programs**
+   - Weekly supervised supplementation in schools
+   - Health education integrated into curriculum
+   - Monitoring by trained teachers
+   - Links to school feeding programs
+
+2. **Workplace Programs**
+   - Distribution through occupational health services
+   - Particularly in industries employing young women
+   - Integration with reproductive health services
+
+3. **Health Facility-Based**
+   - Distribution at family planning clinics
+   - Antenatal care integration
+   - Adolescent health services
+
+#### Supply Chain Considerations
+- Ensure uninterrupted supply of supplements
+- Appropriate storage (cool, dry conditions)
+- Regular stock monitoring
+- Buffer stock for supply interruptions
+- Quality assurance of products
+
+### Behaviour Change Communication
+
+#### Key Messages for Women
+- Importance of iron for health and energy
+- How to take supplements correctly
+- Managing side effects
+- Dietary sources of iron
+- Importance of adherence
+
+#### Counseling Points
+1. Take on empty stomach for best absorption (if tolerated)
+2. If nausea occurs, take with small amount of food
+3. Expect dark-colored stools (harmless)
+4. Do not take with tea, coffee, or milk
+5. Continue for full duration even if feeling better
+6. Store safely away from children (iron overdose risk)
+
+### Dietary Recommendations
+
+#### Iron-Rich Foods
+**Heme Iron Sources** (better absorbed):
+- Red meat (beef, lamb)
+- Poultry
+- Fish and seafood
+- Liver and organ meats
+
+**Non-Heme Iron Sources** (lower absorption):
+- Dark green leafy vegetables (spinach, kale)
+- Legumes (lentils, beans)
+- Iron-fortified cereals and bread
+- Nuts and seeds
+- Dried fruits
+
+#### Absorption Enhancers
+- Vitamin C-rich foods (citrus fruits, tomatoes, peppers)
+- Meat, fish, poultry
+- Fermented foods
+
+#### Absorption Inhibitors
+- Tea and coffee (tannins)
+- Calcium-rich foods/supplements
+- Phytates (whole grains, legumes)
+- Polyphenols
+
+### Monitoring Program Impact
+
+#### Population-Level Indicators
+1. Prevalence of anaemia (Hb <120 g/L in non-pregnant women)
+2. Mean haemoglobin concentration
+3. Prevalence of iron deficiency (ferritin <15 μg/L)
+4. Coverage of supplementation program
+5. Adherence rates
+
+#### Process Indicators
+1. % of target population receiving supplements
+2. % of pregnant women starting supplementation in first trimester
+3. Supply stockouts per year
+4. % of health facilities with available stock
+5. % of women counseled on iron supplementation
+
+### Special Situations
+
+#### Malaria Endemic Areas
+- Continue iron supplementation
+- Implement alongside malaria prevention (bed nets, prophylaxis)
+- Screen and treat malaria before/during supplementation
+- Monitor for adverse events
+- Enhanced surveillance in high-transmission seasons
+
+#### HIV-Positive Women
+- Standard iron supplementation recommendations apply
+- Monitor haemoglobin more frequently
+- Consider interactions with antiretroviral drugs
+- Address inflammation affecting iron absorption
+
+#### Vegetarian/Vegan Diets
+- Higher supplementation doses may be needed
+- Emphasize absorption enhancers
+- Combine with vitamin C
+- Consider non-heme iron-rich foods
+- May need longer duration of supplementation
+
+### Cost-Effectiveness
+- Iron supplementation is highly cost-effective
+- Estimated cost per DALY averted: $30-50 USD
+- Benefits include:
+  * Improved productivity
+  * Better pregnancy outcomes
+  * Enhanced cognitive function
+  * Reduced healthcare costs
+
+### Research Gaps and Future Directions
+1. Optimal dosing strategies in different settings
+2. Long-term effects of intermittent supplementation
+3. Genetic factors affecting iron absorption
+4. Novel formulations with improved tolerability
+5. Integration with other micronutrient programs
+6. Digital health tools for adherence monitoring
+
+### References and Evidence Base
+- Systematic reviews of randomized controlled trials
+- Cochrane reviews on iron supplementation
+- WHO Global Iron Deficiency Anaemia database
+- National anaemia prevalence surveys
+- Economic evaluations from multiple countries
+
+---
+Document Version: Testing Sample v1.0
+Created for PCC Platform Development
+Based on WHO guideline format and structure

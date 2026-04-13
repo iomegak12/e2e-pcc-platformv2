@@ -1,0 +1,128 @@
+# NICE Guideline NG203: Chronic Kidney Disease - Anaemia Management
+## Sample Clinical Guideline Content for Testing
+
+### Executive Summary
+This guideline covers the assessment and management of anaemia in adults, young people and children with chronic kidney disease (CKD). It aims to improve the diagnosis and treatment of anaemia in people with CKD, ensuring appropriate monitoring and timely intervention.
+
+### Key Recommendations
+
+#### 1. Assessment and Diagnosis
+- Measure haemoglobin levels in people with CKD at diagnosis and regularly thereafter
+- Target haemoglobin level: 10-12 g/dL for adults with CKD not on dialysis
+- For people on dialysis, maintain haemoglobin between 10-12 g/dL
+- Check serum ferritin and transferrin saturation before starting erythropoiesis-stimulating agents (ESAs)
+
+#### 2. Iron Therapy
+- Offer oral iron to people with CKD and iron deficiency anaemia
+- Target serum ferritin >100 ng/mL and transferrin saturation >20% before starting ESA therapy
+- For people on haemodialysis, consider intravenous iron if oral iron is not tolerated or effective
+- Monitor iron status every 1-3 months during ESA therapy
+
+#### 3. Erythropoiesis-Stimulating Agents (ESAs)
+- Offer ESAs to people with anaemia of CKD when:
+  * Haemoglobin is ≤10 g/dL
+  * Iron deficiency has been corrected
+  * Other causes of anaemia have been excluded
+- Start with the lowest licensed dose and titrate based on haemoglobin response
+- Avoid haemoglobin levels >12 g/dL
+- Review ESA dose every 2-4 weeks initially, then every 1-3 months once stable
+
+#### 4. Monitoring Requirements
+- Monitor haemoglobin every 2-4 weeks when starting or adjusting ESA therapy
+- Once stable, monitor:
+  * Every 1-3 months for people not on dialysis
+  * Monthly for people on dialysis
+- Monitor iron status alongside haemoglobin levels
+- Assess for ESA hyporesponsiveness if haemoglobin fails to rise or maintenance dose increases significantly
+
+#### 5. Special Populations
+
+##### Children and Young People
+- Target haemoglobin 10-12 g/dL for children with CKD stages 2-5
+- Consider growth and development when managing anaemia
+- Use ESAs cautiously, starting with lowest effective dose
+
+##### Pregnancy
+- Maintain haemoglobin 10-11 g/dL in pregnant women with CKD
+- Adjust ESA therapy carefully during pregnancy
+- Monitor iron status more frequently
+
+##### Elderly Patients
+- Consider comorbidities when setting haemoglobin targets
+- Start with lower ESA doses in elderly patients
+- Monitor for cardiovascular events
+
+### Clinical Pathways
+
+#### Pathway 1: Initial Assessment
+1. Measure haemoglobin, ferritin, transferrin saturation
+2. Exclude other causes of anaemia (blood loss, vitamin deficiencies)
+3. Assess CKD stage and progression
+4. Review medications that may affect erythropoiesis
+5. Establish individualized haemoglobin target
+
+#### Pathway 2: Iron Deficiency Management
+1. Confirm iron deficiency (ferritin <100 ng/mL or TSAT <20%)
+2. Start oral iron supplementation (200mg elemental iron daily)
+3. Monitor response after 4-8 weeks
+4. If inadequate response, consider:
+   - Adherence issues
+   - Malabsorption
+   - Ongoing blood loss
+5. Switch to intravenous iron if oral route ineffective
+
+#### Pathway 3: ESA Initiation
+1. Confirm haemoglobin ≤10 g/dL with optimized iron status
+2. Select appropriate ESA and route
+3. Start with lowest licensed dose
+4. Monitor haemoglobin every 2 weeks
+5. Adjust dose by 25% increments/decrements
+6. Aim for haemoglobin rise of 1-2 g/dL per month
+
+### Contraindications and Cautions
+
+#### ESA Contraindications
+- Uncontrolled hypertension
+- Active malignancy
+- Recent cardiovascular event (within 3 months)
+- Pure red cell aplasia from previous ESA use
+
+#### Monitoring for Adverse Events
+- Blood pressure monitoring at each visit
+- Cardiovascular symptom assessment
+- Thrombotic event screening
+- Seizure risk in CKD patients with rapid Hb rise
+
+### Patient Education Points
+- Importance of adherence to iron supplementation
+- Recognition of anaemia symptoms (fatigue, dyspnea, pallor)
+- Need for regular blood monitoring
+- Dietary iron sources and absorption enhancers
+- When to seek medical attention
+
+### Quality Indicators
+1. Proportion of patients with CKD and Hb <10 g/dL receiving treatment
+2. Percentage of dialysis patients with Hb 10-12 g/dL
+3. Iron status optimization before ESA initiation
+4. Annual review of anaemia management plan
+5. Documentation of patient education and shared decision-making
+
+### References and Evidence Base
+This guideline synthesizes evidence from:
+- Randomized controlled trials of ESA therapy
+- Cochrane systematic reviews on iron supplementation
+- KDIGO guidelines on CKD-MBD
+- Long-term safety data on ESA use
+- Health economic analyses of anaemia treatment strategies
+
+### Implementation Resources
+- Patient decision aids for ESA therapy
+- Iron therapy protocols for different CKD stages
+- ESA dose adjustment algorithms
+- Audit templates for quality monitoring
+- Training materials for healthcare professionals
+
+---
+Document Version: Testing Sample v1.0
+Created for PCC Platform Development
+Based on NICE guideline format and structure
