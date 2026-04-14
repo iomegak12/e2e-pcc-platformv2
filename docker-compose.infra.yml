@@ -54,10 +54,28 @@ services:
     volumes:
       - chromadb_data:/chroma/chroma
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/heartbeat"]
+      test: ["CMD-SHELL", "bash -c 'echo > /dev/tcp/localhost/8000'"]
       interval: 10s
       timeout: 5s
       retries: 5
+    networks:
+      - pcc-network
+    restart: unless-stopped
+
+  # pgAdmin Web UI
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: pcc-pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: pccuser@training.com
+      PGADMIN_DEFAULT_PASSWORD: "admin@123"
+    ports:
+      - "5050:80"
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+    depends_on:
+      postgres:
+        condition: service_healthy
     networks:
       - pcc-network
     restart: unless-stopped
@@ -84,6 +102,8 @@ volumes:
   redis_data:
     driver: local
   chromadb_data:
+    driver: local
+  pgadmin_data:
     driver: local
 
 networks:
